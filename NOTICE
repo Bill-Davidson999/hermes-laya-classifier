@@ -1,0 +1,11 @@
+Laya Classifier for Hermes Agent
+Copyright 2026 Laya Classifier contributors
+
+This independent integration bundles the standalone laya-client SDK v0.1.0
+from Convai Innovations / the NandhaKishorM/laya repository, under Apache-2.0.
+The original SDK source and license are retained under _vendor/laya_client.
+Pinned upstream commit: 0565524a27bcb9821bcd7c42aaf49d925f6f8560.
+
+Hermes Agent is developed by Nous Research and its contributors and is
+MIT-licensed. Hermes source is not distributed in this package.
+This integration is not an official release or endorsement of either project.

@@ -1,0 +1,26 @@
+# Credentials stay outside the repository. This list is an additional safeguard.
+.env
+.env.*
+!.env.example
+laya.json
+*.local.json
+*credentials*.json
+credentials/
+secrets/
+*.pem
+*.key
+*.pfx
+
+# Runtime, test, and build artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+work/
+logs/
+*.log
+*.zip
+dist/
+build/
+*.egg-info/

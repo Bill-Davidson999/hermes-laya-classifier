@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "provider": "laya",
+  "api_key": "REPLACE_WITH_YOUR_BEARER_TOKEN",
+  "base_url": "https://laya.example.invalid:8000",
+  "endpoint": "/v1/systemone",
+  "auth_type": "bearer",
+  "method": "POST"
+}

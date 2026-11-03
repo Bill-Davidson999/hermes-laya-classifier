@@ -1,0 +1,17 @@
+name: laya-classifier
+label: Laya Classification
+kind: standalone
+version: 0.1.0-beta
+description: Explicit advisory Choice classification through a configured Laya service.
+author: Laya Classifier contributors
+license: Apache-2.0
+requires_hermes: ">=0.22.5"
+python_dependencies: []
+config_schema:
+  credentials_file:
+    type: str
+    default: ""
+    description: Absolute path to a private Laya JSON credential file outside the plugin directory.
+provides_tools:
+  - laya_classify
+provides_hooks: []

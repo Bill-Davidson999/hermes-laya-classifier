@@ -1,0 +1,40 @@
+{
+  "repository": "https://github.com/NandhaKishorM/laya",
+  "commit": "0565524a27bcb9821bcd7c42aaf49d925f6f8560",
+  "distribution": "laya-client",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "modifications": "None. Original source bytes preserved; placed in a private relative-import package.",
+  "files": [
+    {
+      "path": "_vendor/laya_client/__init__.py",
+      "source": "https://github.com/NandhaKishorM/laya/blob/0565524a27bcb9821bcd7c42aaf49d925f6f8560/sdk/python/src/laya_client/__init__.py",
+      "sha256": "b345fc89815c6117b5f1be2c6f79c663034f1d5cf20cc3770076ce2c917db618"
+    },
+    {
+      "path": "_vendor/laya_client/client.py",
+      "source": "https://github.com/NandhaKishorM/laya/blob/0565524a27bcb9821bcd7c42aaf49d925f6f8560/sdk/python/src/laya_client/client.py",
+      "sha256": "bf1a7bd068f79bd6b002083ab43cd1073ce51e83272c874e8a8b1bd72b5ffafc"
+    },
+    {
+      "path": "_vendor/laya_client/_validation.py",
+      "source": "https://github.com/NandhaKishorM/laya/blob/0565524a27bcb9821bcd7c42aaf49d925f6f8560/sdk/python/src/laya_client/_validation.py",
+      "sha256": "b3c66982c8b453fecc0a4af521a565dba6616dd2cb8e9edcaddcc4d8bb3f8524"
+    },
+    {
+      "path": "_vendor/laya_client/errors.py",
+      "source": "https://github.com/NandhaKishorM/laya/blob/0565524a27bcb9821bcd7c42aaf49d925f6f8560/sdk/python/src/laya_client/errors.py",
+      "sha256": "73f1a34cc1af4dff5bc66e04f450e08755c0d86fb7cbad8c9e027881b4a48509"
+    },
+    {
+      "path": "_vendor/laya_client/types.py",
+      "source": "https://github.com/NandhaKishorM/laya/blob/0565524a27bcb9821bcd7c42aaf49d925f6f8560/sdk/python/src/laya_client/types.py",
+      "sha256": "bc069b1ebd7956d1a4aedbdd3eefafbd4cc6e58804fa1a4063dc6c4e4043d59f"
+    },
+    {
+      "path": "_vendor/laya_client/LICENSE",
+      "source": "https://github.com/NandhaKishorM/laya/blob/0565524a27bcb9821bcd7c42aaf49d925f6f8560/sdk/python/LICENSE",
+      "sha256": "a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9"
+    }
+  ]
+}
